@@ -12,14 +12,14 @@ Automating my computer using the `pyautogui` library. Coolest application: autom
 
 - potd.py: A very long code to automate my computer to do what I want it to do... hehe
 Multi-step Process:
-1. open chrome via spotlight
-2. navigate to Nat Geo Photo of the Day in new tab
-3. maximize screen
-4. scroll down and click "View Slideshow" to maximize the photo
-5. take a screen shot
-6. get the current date and format a string to name the screen shot
-7. go back to Terminal and open up a new tab
-8. rename the file and close the Terminal tab
+> 1. open chrome via spotlight
+> 2. navigate to Nat Geo Photo of the Day in new tab
+> 3. maximize screen
+> 4. scroll down and click "View Slideshow" to maximize the photo
+> 5. take a screen shot
+> 6. get the current date and format a string to name the screen shot
+> 7. go back to Terminal and open up a new tab
+> 8. rename the file and close the Terminal tab
 The end! Enjoy your new desktop background for the day!
 
 
