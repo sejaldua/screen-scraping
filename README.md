@@ -11,3 +11,7 @@ Automating my computer using the `pyautogui` library. Coolest application: autom
 - viewslideshow.png: A photo of a characteristic fraction of the screen on National Geographic's Photo of the Day webpage. This was essential in order to implement the `pyautogui.locateCenterOnScreen([image])` function, which algorithmically searches for the image passed into the function and returns its center coordinates.
 
 - potd.py: 
+
+### Code In Action!
+
+![](potd.gif)
