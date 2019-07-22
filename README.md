@@ -15,3 +15,5 @@ Automating my computer using the `pyautogui` library. Coolest application: autom
 ### Code In Action!
 
 ![](potd.gif)
+
+[YouTube Video: National Geographic Photo of the Day --> Desktop Picture](https://youtu.be/ytaNkmoTFHg)
