@@ -30,6 +30,14 @@ The end! Enjoy your new desktop background for the day!
 
 [YouTube Video: National Geographic Photo of the Day --> Desktop Picture](https://youtu.be/ytaNkmoTFHg)
 
+### Things I Explored Throughout the Project
+-> pyautogui
+-> pynput
+-> subprocess
+-> osascript
+-> automator
+-> crontab
+
 ### A Reflection on Trials and Tribulations
 
 
