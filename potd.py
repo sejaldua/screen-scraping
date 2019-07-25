@@ -45,6 +45,7 @@ def getpotd():
     x, y = pyautogui.locateCenterOnScreen('viewslideshow.png')
     pyautogui.moveTo(int(x/2), int(y/2))
     print("about to click")
+    time.sleep(0.3)
     pyautogui.click(button='left')
     time.sleep(2)
 
