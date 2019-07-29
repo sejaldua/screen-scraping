@@ -30,7 +30,7 @@ The end! Enjoy your new desktop background for the day!
 
 ### Code In Action!
 
-![](potd.gif)
+![](video.gif)
 
 [YouTube Video: National Geographic Photo of the Day --> Desktop Picture](https://youtu.be/ytaNkmoTFHg)
 
